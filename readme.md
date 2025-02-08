@@ -7,7 +7,7 @@
 
 
 <p align="center"> 
-🌱 I’m currently learning CPP and DSA <br>
+🌱 I’m currently learning JAVA and DSA <br>
 📫 How to reach me harshitac495@gmail.com <br>
 ⚡ Fact: Destiny is waiting for you.
 
